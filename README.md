@@ -17,12 +17,12 @@ it can measure :
 | 4. | Target heart rate |
 | 5. | Macros |
 # BMI:
-![Alt text](BMI.png)
+![Alt text](README_images/BMI.png)
 + enter your weight
 + enter your height in meters
 + get result and also get to know whether you are _emaciated, overweight, obese, underweight or healthy_
 # BMR:
-![Alt text](BMR.png)
+![Alt text](README_images/BMR.png)
 + select your gender
 + enter your weight
 + enter your height
