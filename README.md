@@ -1,3 +1,4 @@
+![Alt text](README/banner.png)
 # Fitscale
 Fitscale is a **streamlit based health calculator** dedicated to calculate every aspect of 
 your health and provide straightforward results. It's ~expensive~ free of cost
