@@ -16,21 +16,29 @@ it can measure :
 | 3. | TDEE |
 | 4. | Target heart rate |
 | 5. | Macros |
-# BMI:
+# BMI ⚖:
 ![Alt text](BMI.png)
 + enter your weight
 + enter your height in meters
 + get result and also get to know whether you are _emaciated, overweight, obese, underweight or healthy_
-# BMR:
+# BMR 💥:
 ![Alt text](BMR.png)
 + select your gender
 + enter your weight
 + enter your height
 + enter your age on the slider
 + get the result below
-# Target heart rate:
+# Target heart rate ♥:
 ![Alt text](targethp.png)
 + enter your age
 + get the result below and find out the max heart rate, heart rate in vigorous activities and normal heart rate
-# TDEE:
+# TDEE 🔥:
 ![Alt text](TDEE.png)
+
+# 📂 repo structure
+```
+Fitscale
+|____________ Fitscale
+|____________ README
+|____________ LICENSE
+```
