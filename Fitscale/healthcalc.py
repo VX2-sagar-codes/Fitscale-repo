@@ -12,7 +12,7 @@ with tab1:
      weight = st.number_input("Insert Your Weight in Kgs", help="_Note: It should be entered in Kilograms_", min_value=5.0, max_value=180.0)
     with col2:
        height = st.number_input("Insert your Height in meters", help="_Note: It should be entered in meters_", min_value=1.0, max_value=3.0)
-    BMI = weight//height**2
+    BMI = weight/height**2
    if BMI < 15.5:
      st.metric(label="Your BMI is", value=BMI, delta="Emaciated", delta_arrow="down", delta_color="red")
    elif BMI > 15.5 and BMI < 18.5:
@@ -20,7 +20,7 @@ with tab1:
    elif BMI > 18.5 and BMI < 24.9:
      st.metric(label="Your BMI is", value=BMI, delta="Healthy", delta_arrow="up", delta_color="green")
    elif BMI > 25.0 and BMI < 29.9:
-     st.metric(label="Yur BMI is", value=BMI, delta="Overweight", delta_arrow="down", delta_color="orange")
+     st.metric(label="Your BMI is", value=BMI, delta="Overweight", delta_arrow="down", delta_color="orange")
    elif BMI > 30.0:
      st.metric(label="Your BMI is", value=BMI, delta="Obese", delta_arrow="down", delta_color="red")
 with tab2:
@@ -95,9 +95,9 @@ with tab5:
    Protein = WEIGHT*2
    gain = TDEE + 500
    loss = TDEE - 500
-   fat_loss = (loss*0.25)//9
+   fat_loss = (loss*0.25)/9
    fat_gain = (gain*0.25)//9
-   carb_loss = ((loss)-(Protein*4)-(fat_loss*9))//4
+   carb_loss = ((loss)-(Protein*4)-(fat_loss*9))/4
    carb_gain = ((gain*0.25)-(Protein*4)-(fat_gain*9))//4
    fat = (TDEE*0.25)//9
    carb = ((TDEE)-(Protein*4)-(fat*9))//4
