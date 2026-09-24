@@ -51,3 +51,20 @@ Fitscale
 ```
 # 💻 tech stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# How to run it locally 👨‍💻
+1. Move to a folder (e.g- documents)
+ ```
+    cd documents
+ ```  
+2. Open your terminal
+```
+   git clone https://github.com/VX2-sagar-codes/Fitscale-repo
+```
+3. Navigate through folder
+```
+  cd fitscale
+```
+4. Run
+```
+  streamlit run fitscale.py
+```
