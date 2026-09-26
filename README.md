@@ -66,5 +66,5 @@ Fitscale
 ```
 4. Run
 ```
-  streamlit run fitscale.py
+  streamlit run healthcalc.py
 ```
