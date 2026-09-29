@@ -71,7 +71,9 @@ jump to:
 ```
   streamlit run healthcalc.py
 ```
-_Created by_:
+<details>
+<summary><b>🔍 Know about the Creator</b></summary>
+
 ```
 ██╗      ██╗ ██╗      ██╗  ██████╗
 ██║      ██║ ╚██╗    ██╔╝  ╚════██╗
@@ -80,3 +82,6 @@ _Created by_:
     ╚██╔╝     ██╔╝    ██╗  ███████╗
      ╚═╝     ╚═╝      ╚═╝  ╚══════╝
 ```
+
+</details>
+
