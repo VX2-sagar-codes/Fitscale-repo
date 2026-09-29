@@ -12,11 +12,12 @@ it can measure :
 | 5. | Macros |
 jump to:
 + [BMI](#bmi-⚖)
-+ [BMR](#bmr-💥)
-+ [Target heart rate](#target-heart-rate-♥)
-+ [TDEE](#tdee-🔥)
-+ [Macros](#macros-🍞)
-+ [Repo structure](#📂-repo-structure)
++ [BMR](#BMR-💥)
++ [Target heart rate](#Target-heart-rate-♥)
++ [TDEE](#TDEE-🔥)
++ [Macros](#Macros-🍞)
++ [Repo structure](#📂-Repo-structure)
++ [Tech Stack](#Tech-stack-💻)
 # BMI ⚖:
 ![Alt text](README/BMI.png)
 + enter your weight
